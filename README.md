@@ -1,4 +1,4 @@
-# My First extension documentation step-by-step using react.js
+# My First extension ❤️ documentation step-by-step using react.js 🥰
 
 ## Steps to make extension
 
